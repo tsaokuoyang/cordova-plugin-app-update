@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="update_latest">已經是最新版本</string>
+    <string name="update_title">更新</string>
+    <string name="update_message">軟體框架已有更新！</string>
+    <string name="update_update_btn">進行更新</string>
+    <string name="updating">正在更新</string>
+    <string name="update_cancel">取消</string>
+    <string name="update_bg">轉到背景更新</string>
+    <string name="download_complete_title">下載完畢</string>
+    <string name="download_complete_pos_btn">重新下載</string>
+    <string name="download_complete_neu_btn">手動安裝</string>
+
+    <string name="update_error_title">錯誤</string>
+    <string name="update_error_message">目前網絡不可用，請檢查你的網絡設定。</string>
+    <string name="update_error_yes_btn">知道了</string>
+</resources>
