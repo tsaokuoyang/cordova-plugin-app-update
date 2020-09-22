@@ -12,6 +12,6 @@
     <string name="download_complete_neu_btn">手動安裝</string>
 
     <string name="update_error_title">錯誤</string>
-    <string name="update_error_message">目前網絡不可用，請檢查你的網絡設定。</string>
+    <string name="update_error_message">目前網路無法連線，請檢查您的網路設定。</string>
     <string name="update_error_yes_btn">知道了</string>
 </resources>
