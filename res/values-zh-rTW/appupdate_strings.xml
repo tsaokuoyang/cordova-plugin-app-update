@@ -2,7 +2,7 @@
 <resources>
     <string name="update_latest">已經是最新版本</string>
     <string name="update_title">更新</string>
-    <string name="update_message">軟體框架已有更新！</string>
+    <string name="update_message">本 App 已有更新版！</string>
     <string name="update_update_btn">進行更新</string>
     <string name="updating">正在更新</string>
     <string name="update_cancel">取消</string>

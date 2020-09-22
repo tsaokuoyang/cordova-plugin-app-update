@@ -129,6 +129,7 @@ versionName | versionCode
     int UNKNOWN_ERROR = 901;
 ```
 # Languages
+* TW zh-TW
 * 🇨🇳 zh
 * 🇺🇸 en 
 * 🇩🇪 de 
